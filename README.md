@@ -72,5 +72,5 @@ As part of my experience, I have also incorporated Django into my skill set, lev
 
 ## 📬📥 &nbsp; Contact Me
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/enrique-araque-espinosa-b1ba65230/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedI%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/enrique-araque-espinosa-b1ba65230/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:enriquearakes@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
