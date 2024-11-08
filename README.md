@@ -9,6 +9,7 @@ Hi! My name is Henry. I am a computer engineer currently working as a DevOps eng
 I’ve been in the tech field for several years now, and along this journey, I’ve learned a variety of technologies that have helped me grow over time.
 
 #### Languages
+
   [![Python](https://skillicons.dev/icons?i=py "Python")](https://skillicons.dev)
   [![Bash](https://skillicons.dev/icons?i=bash "Bash")](https://skillicons.dev)
   [![C++](https://skillicons.dev/icons?i=cpp "C++")](https://skillicons.dev)
@@ -27,7 +28,7 @@ I’ve been in the tech field for several years now, and along this journey, I�
   [![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")](https://skillicons.dev)
   [![Ansible](https://skillicons.dev/icons?i=ansible "Ansible")](https://skillicons.dev)
 
-#### Other Languajes and Tools
+#### Other Languages and Tools
 
 [![Html](https://skillicons.dev/icons?i=html "Html")](https://skillicons.dev)
 [![Css](https://skillicons.dev/icons?i=css "Css")](https://skillicons.dev)
