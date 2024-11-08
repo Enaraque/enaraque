@@ -1,76 +1,47 @@
 ### Hi there 👋
 
-I'm Enrique and i'm 22 years old, I am pursuing studies in computer engineering at the University of Granada. My passion lies in fullstack web development, and I thoroughly enjoy continually learning to undertake new projects.
+Hi! My name is Henry. I am a computer engineer currently working as a DevOps engineer.
 
-Throughout my academic journey, I have cultivated strong skills in various programming languages, particularly excelling in C++, Java and Python. These skills have been crucial not only in academic settings but also in practical application through personal projects, enhancing my understanding and ability to tackle complex challenges.
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Skills
 
-In the realm of web development, I have delved into essential technologies such as HTML, CSS, and JavaScript. I have worked with the Bootstrap framework to create attractive and responsive user interfaces, ensuring a smooth and modern user experience.
-As part of my experience, I have also incorporated Django into my skill set, leveraging this high-level web development framework to build robust and scalable applications. 
-
-<img align="right" width="150" height="150" src="https://github.com/Enaraque/enaraque/assets/74021522/87d1fd42-a9f9-4b61-895a-d266a9d8941e" alt="GIF de dinosaurio" width="300">
-
-- 👨‍💻 I'm currently finishing my degree in computer engineering. 
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning JavaScript. I am also learning about the cloud with AWS.
-- 📫 How to reach me: You can contact me via [E-mail](mailto:enriquearakes@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/enrique-araque-espinosa-b1ba65230)
-
-<table width="100%" >
- <tr>
-    <td width="60%">
-     
-  ## 🛠️ Skills
+<p align="center">
   
-  #### Languages
-  
-  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-  ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-  
-  
-  #### Development
-  ![html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-  ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-  ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
+I’ve been in the tech field for several years now, and along this journey, I’ve learned a variety of technologies that have helped me grow over time.
 
+#### Languages
+  [![Python](https://skillicons.dev/icons?i=py "Python")](https://skillicons.dev)
+  [![Bash](https://skillicons.dev/icons?i=bash "Bash")](https://skillicons.dev)
+  [![C++](https://skillicons.dev/icons?i=cpp "C++")](https://skillicons.dev)
+  [![Java](https://skillicons.dev/icons?i=java "Java")](https://skillicons.dev)
+
+#### Tools and Technologies
   
-  #### Database
+  [![Java](https://skillicons.dev/icons?i=linux "Linux")](https://skillicons.dev)
+  [![Macos](https://skillicons.dev/icons?i=apple "Macos")](https://skillicons.dev)
+  [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
+  [![Github](https://skillicons.dev/icons?i=github "Github")](https://skillicons.dev)
+  [![Gitlab](https://skillicons.dev/icons?i=gitlab "Gitlab")](https://skillicons.dev)
+  [![Aws](https://skillicons.dev/icons?i=aws "Aws")](https://skillicons.dev)
+  [![Terraform](https://skillicons.dev/icons?i=terraform "Terraform")](https://skillicons.dev)
+  [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://skillicons.dev)
+  [![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")](https://skillicons.dev)
+  [![Ansible](https://skillicons.dev/icons?i=ansible "Ansible")](https://skillicons.dev)
 
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+#### Other Languajes and Tools
 
-  
-  #### Tools and Technologies
-  
-  ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
-  ![sqlmodel](https://img.shields.io/badge/sqlModel-A957C8?style=flat&logo=)
-  ![vscode](https://img.shields.io/badge/macOS-6A7071?style=flat&logo=macos)
+[![Html](https://skillicons.dev/icons?i=html "Html")](https://skillicons.dev)
+[![Css](https://skillicons.dev/icons?i=css "Css")](https://skillicons.dev)
+[![Javascript](https://skillicons.dev/icons?i=javascript "Javascript")](https://skillicons.dev)
+[![Typescript](https://skillicons.dev/icons?i=typescript "Typescript")](https://skillicons.dev)
+[![Deno](https://skillicons.dev/icons?i=deno "Deno")](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django "Django")](https://skillicons.dev)
 
-       
-  </td>
-  <td>
-    <p align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=enaraque&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
-      </br>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=enaraque"/>
-      </br>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enaraque&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-    </p>
-  </td>
-  
-  </br>
-</table>
+</p>
 
-</br>
+## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> GitHub Statistics 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enaraque&show_icons=true&theme=tokyonight)
 
-## 📬📥 &nbsp; Contact Me
+## 📬 Contact Me
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/enrique-araque-espinosa-b1ba65230/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:enriquearakes@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/enrique-araque-espinosa-b1ba65230/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:enriquearakes@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> &nbsp; &nbsp;
