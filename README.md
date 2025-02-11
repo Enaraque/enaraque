@@ -40,7 +40,11 @@ I’ve been in the tech field for several years now, and along this journey, I�
 </p>
 
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> GitHub Statistics 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enaraque&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enaraque&show_icons=true&theme=tokyonight" width="43.5%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enaraque&theme=tokyo-night" width="52.5%">
+</p>
+
 
 ## 📬 Contact Me
 
